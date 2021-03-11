@@ -41,6 +41,11 @@ void my_function(){
 	//jerry test git
 }
 
+
 void changeByCustomerEscaplation(){
 	
+}
+	
+void new_feature(){
+	// do something
 }
