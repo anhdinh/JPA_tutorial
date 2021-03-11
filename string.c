@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int change_the_name(char *s)
+int change_the_name(const char *s)
 {
    char *p = s;
    
