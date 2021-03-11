@@ -36,3 +36,7 @@ char *my_strcpy(char *t, char *s){
 	  while (*t++ = *s++);
 	  return p;
 }
+
+void my_function(){
+	//jerry test git
+}
