@@ -54,3 +54,8 @@ void new_feature(){
 void jerryFunction(){
 	
 }
+
+int str_len(){
+	
+}
+
