@@ -55,7 +55,9 @@ void jerryFunction(){
 	
 }
 
-int str_len_tom_verion(){
+
+int str_leng(){
+
 	
 }
 
