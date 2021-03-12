@@ -49,3 +49,8 @@ void changeByCustomerEscaplation(){
 void new_feature(){
 	// do something
 }
+
+
+void jerryFunction(){
+	
+}
