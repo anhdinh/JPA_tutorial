@@ -55,7 +55,7 @@ void jerryFunction(){
 	
 }
 
-int str_len(){
+int str_leng(){
 	
 }
 
